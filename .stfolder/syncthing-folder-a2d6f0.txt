@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: ku3ol-akudb
-created: 2026-07-15T22:31:27+07:00
